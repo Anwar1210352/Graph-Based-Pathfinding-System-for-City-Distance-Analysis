@@ -1,7 +1,7 @@
-//Yaman abu jazar
+//Anwar Jaber
 //Radi jarrar
 //Section 4
-//1212199
+//1210352
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
